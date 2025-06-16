@@ -1,0 +1,30 @@
+0 Are you Angry
+1 Bad
+2 Come Inside
+3 Finished(All done)
+4 Go
+5 Going to School
+6 Good
+7 Hello
+8 Help me
+9 I am feeling sleepy
+10 I am Happy
+11 I am Sad
+12 I Like it
+13 I Love you
+14 I need a Drink
+15 I need to go to Toilet
+16 Let's Eat
+17 Let's Play
+18 More
+19 No
+20 Please
+21 sorry
+22 Stop
+23 Thank You
+24 This is my Family
+25 Wait
+26 What's your name
+27 I am working
+28 Yes
+29 You are my friend
