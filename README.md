@@ -1,4 +1,4 @@
-Sign Language to Text Detection
+# Sign Language to Text Detection
 A deep learning-based project designed to translate sign language gestures into real-time text, empowering communication for the deaf and mute community.
 🧠 Project Overview
 This project leverages computer vision and convolutional neural networks (CNN) to identify hand gestures and convert them into readable text. Built using Python and Jupyter Notebook, it features webcam-based real-time inference and a user-friendly interface for live demonstrations.
